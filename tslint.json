@@ -1,0 +1,12 @@
+{
+  "extends": [],
+  "linterOptions": {
+    "exclude": ["src/elements/**/*.tsx", "config/**/*.js", "node_modules/**/*.ts", "coverage/lcov-report/*.js"]
+  },
+  "rules": {
+    "no-console": false,
+    "max-classes-per-file": false,
+    "ordered-imports": false,
+    "no-unused-variable": false
+  }
+}

@@ -1,0 +1,8 @@
+:host button {
+  background: palevioletred;
+  color: white;
+}
+
+@yolo {
+  background: blue;
+}
